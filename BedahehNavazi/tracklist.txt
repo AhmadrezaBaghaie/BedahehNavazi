@@ -1,0 +1,912 @@
+[
+  {
+    "name": "1- Ashnaei 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/1- Ashnaei.png",
+    "path": "BedahehNavazi/Playlist/1- Ashnaei 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "1- Ashnaei 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/1- Ashnaei.png",
+    "path": "BedahehNavazi/Playlist/1- Ashnaei 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "2- Avizeh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/2- Avizeh.png",
+    "path": "BedahehNavazi/Playlist/2- Avizeh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "2- Avizeh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/2- Avizeh.png",
+    "path": "BedahehNavazi/Playlist/2- Avizeh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "3- Esteghamat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/3- Esteghamat.png",
+    "path": "BedahehNavazi/Playlist/3- Esteghamat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "3- Esteghamat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/3- Esteghamat.png",
+    "path": "BedahehNavazi/Playlist/3- Esteghamat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "4- Estemrar 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/4- Estemrar.png",
+    "path": "BedahehNavazi/Playlist/4- Estemrar 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "4- Estemrar 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/4- Estemrar.png",
+    "path": "BedahehNavazi/Playlist/4- Estemrar 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "5- Ostovar 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/5- Ostovar.png",
+    "path": "BedahehNavazi/Playlist/5- Ostovar 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "5- Ostovar 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/5- Ostovar.png",
+    "path": "BedahehNavazi/Playlist/5- Ostovar 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "6- Omid 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/6- Omid.png",
+    "path": "BedahehNavazi/Playlist/6- Omid 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "6- Omid 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/6- Omid.png",
+    "path": "BedahehNavazi/Playlist/6- Omid 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "7- Pafeshari 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/7- Pafeshari.png",
+    "path": "BedahehNavazi/Playlist/7- Pafeshari 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "7- Pafeshari 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/7- Pafeshari.png",
+    "path": "BedahehNavazi/Playlist/7- Pafeshari 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "8- Paydari 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/8- Paydari.png",
+    "path": "BedahehNavazi/Playlist/8- Paydari 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "8- Paydari 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/8- Paydari.png",
+    "path": "BedahehNavazi/Playlist/8- Paydari 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "9- Poshtkar 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/9- Poshtkar.png",
+    "path": "BedahehNavazi/Playlist/9- Poshtkar 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "9- Poshtkar 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/9- Poshtkar.png",
+    "path": "BedahehNavazi/Playlist/9- Poshtkar 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "10- Peleh Peleh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/10- Peleh Peleh.png",
+    "path": "BedahehNavazi/Playlist/10- Peleh Peleh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "10- Peleh Peleh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/10- Peleh Peleh.png",
+    "path": "BedahehNavazi/Playlist/10- Peleh Peleh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "11- Takid 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/11- Takid.png",
+    "path": "BedahehNavazi/Playlist/11- Takid 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "11- Takid 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/11- Takid.png",
+    "path": "BedahehNavazi/Playlist/11- Takid 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "12- Taeed 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/12- Taeed.png",
+    "path": "BedahehNavazi/Playlist/12- Taeed 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "12- Taeed 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/12- Taeed.png",
+    "path": "BedahehNavazi/Playlist/12- Taeed 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "13- Tabasom 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/13- Tabasom.png",
+    "path": "BedahehNavazi/Playlist/13- Tabasom 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "13- Tabasom 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/13- Tabasom.png",
+    "path": "BedahehNavazi/Playlist/13- Tabasom 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "14- Tahrir 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/14- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/14- Tahrir 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "14- Tahrir 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/14- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/14- Tahrir 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "15- Tahrir 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/15- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/15- Tahrir 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "15- Tahrir 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/15- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/15- Tahrir 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "16- Tahrir 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/16- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/16- Tahrir 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "16- Tahrir 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/16- Tahrir.png",
+    "path": "BedahehNavazi/Playlist/16- Tahrir 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "17- Tohfeh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/17- Tohfeh.png",
+    "path": "BedahehNavazi/Playlist/17- Tohfeh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "17- Tohfeh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/17- Tohfeh.png",
+    "path": "BedahehNavazi/Playlist/17- Tohfeh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "18- Tadavom 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/18- Tadavom.png",
+    "path": "BedahehNavazi/Playlist/18- Tadavom 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "18- Tadavom 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/18- Tadavom.png",
+    "path": "BedahehNavazi/Playlist/18- Tadavom 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "19- Taraghi 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/19- Taraghi.png",
+    "path": "BedahehNavazi/Playlist/19- Taraghi 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "19- Taraghi 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/19- Taraghi.png",
+    "path": "BedahehNavazi/Playlist/19- Taraghi 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "20- Tasdigh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/20- Tasdigh.png",
+    "path": "BedahehNavazi/Playlist/20- Tasdigh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "20- Tasdigh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/20- Tasdigh.png",
+    "path": "BedahehNavazi/Playlist/20- Tasdigh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "21- Tanzim 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/21- Tanzim.png",
+    "path": "BedahehNavazi/Playlist/21- Tanzim 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "21- Tanzim 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/21- Tanzim.png",
+    "path": "BedahehNavazi/Playlist/21- Tanzim 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "22- Tavakol 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/22- Tavakol.png",
+    "path": "BedahehNavazi/Playlist/22- Tavakol 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "22- Tavakol 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/22- Tavakol.png",
+    "path": "BedahehNavazi/Playlist/22- Tavakol 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "23- Hadeseh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/23- Hadeseh.png",
+    "path": "BedahehNavazi/Playlist/23- Hadeseh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "23- Hadeseh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/23- Hadeseh.png",
+    "path": "BedahehNavazi/Playlist/23- Hadeseh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "24- Hekayat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/24- Hekayat.png",
+    "path": "BedahehNavazi/Playlist/24- Hekayat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "24- Hekayat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/24- Hekayat.png",
+    "path": "BedahehNavazi/Playlist/24- Hekayat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "25- Hekmat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/25- Hekmat.png",
+    "path": "BedahehNavazi/Playlist/25- Hekmat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "25- Hekmat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/25- Hekmat.png",
+    "path": "BedahehNavazi/Playlist/25- Hekmat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "26- Khatereh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/26- Khatereh.png",
+    "path": "BedahehNavazi/Playlist/26- Khatereh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "26- Khatereh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/26- Khatereh.png",
+    "path": "BedahehNavazi/Playlist/26- Khatereh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "27- Khoroush 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/27- Khoroush.png",
+    "path": "BedahehNavazi/Playlist/27- Khoroush 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "27- Khoroush 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/27- Khoroush.png",
+    "path": "BedahehNavazi/Playlist/27- Khoroush 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "28- Khoosheh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/28- Khoosheh.png",
+    "path": "BedahehNavazi/Playlist/28- Khoosheh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "28- Khoosheh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/28- Khoosheh.png",
+    "path": "BedahehNavazi/Playlist/28- Khoosheh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "29- Zendegi 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/29- Zendegi.png",
+    "path": "BedahehNavazi/Playlist/29- Zendegi 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "29- Zendegi 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/29- Zendegi.png",
+    "path": "BedahehNavazi/Playlist/29- Zendegi 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "30- Zinat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/30- Zinat.png",
+    "path": "BedahehNavazi/Playlist/30- Zinat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "30- Zinat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/30- Zinat.png",
+    "path": "BedahehNavazi/Playlist/30- Zinat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "31- Saranj 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/31- Saranj.png",
+    "path": "BedahehNavazi/Playlist/31- Saranj 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "31- Saranj 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/31- Saranj.png",
+    "path": "BedahehNavazi/Playlist/31- Saranj 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "32- Shak 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/32- Shak.png",
+    "path": "BedahehNavazi/Playlist/32- Shak 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "32- Shak 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/32- Shak.png",
+    "path": "BedahehNavazi/Playlist/32- Shak 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "33- Shokoofeh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/33- Shokoofeh.png",
+    "path": "BedahehNavazi/Playlist/33- Shokoofeh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "33- Shokoofeh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/33- Shokoofeh.png",
+    "path": "BedahehNavazi/Playlist/33- Shokoofeh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "34- Sabr 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/34- Sabr.png",
+    "path": "BedahehNavazi/Playlist/34- Sabr 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "34- Sabr 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/34- Sabr.png",
+    "path": "BedahehNavazi/Playlist/34- Sabr 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "35- Torreh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/35- Torreh.png",
+    "path": "BedahehNavazi/Playlist/35- Torreh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "35- Torreh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/35- Torreh.png",
+    "path": "BedahehNavazi/Playlist/35- Torreh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "36- Torreh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/36- Torreh.png",
+    "path": "BedahehNavazi/Playlist/36- Torreh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "36- Torreh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/36- Torreh.png",
+    "path": "BedahehNavazi/Playlist/36- Torreh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "37- Orouj 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/37- Orouj.png",
+    "path": "BedahehNavazi/Playlist/37- Orouj 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "37- Orouj 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/37- Orouj.png",
+    "path": "BedahehNavazi/Playlist/37- Orouj 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "38- Ahd 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/38- Ahd.png",
+    "path": "BedahehNavazi/Playlist/38- Ahd 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "38- Ahd 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/38- Ahd.png",
+    "path": "BedahehNavazi/Playlist/38- Ahd 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "39- Ghaayat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/39- Ghaayat.png",
+    "path": "BedahehNavazi/Playlist/39- Ghaayat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "39- Ghaayat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/39- Ghaayat.png",
+    "path": "BedahehNavazi/Playlist/39- Ghaayat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "40- Ghorbat 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/40- Ghorbat.png",
+    "path": "BedahehNavazi/Playlist/40- Ghorbat 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "40- Ghorbat 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/40- Ghorbat.png",
+    "path": "BedahehNavazi/Playlist/40- Ghorbat 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "41- Forookesh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/41- Forookesh.png",
+    "path": "BedahehNavazi/Playlist/41- Forookesh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "41- Forookesh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/41- Forookesh.png",
+    "path": "BedahehNavazi/Playlist/41- Forookesh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "42- Fesordeh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/42- Fesordeh.png",
+    "path": "BedahehNavazi/Playlist/42- Fesordeh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "42- Fesordeh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/42- Fesordeh.png",
+    "path": "BedahehNavazi/Playlist/42- Fesordeh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "43- Ghol 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/43- Ghol.png",
+    "path": "BedahehNavazi/Playlist/43- Ghol 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "43- Ghol 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/43- Ghol.png",
+    "path": "BedahehNavazi/Playlist/43- Ghol 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "44- Keshesh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/44- Keshesh.png",
+    "path": "BedahehNavazi/Playlist/44- Keshesh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "44- Keshesh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/44- Keshesh.png",
+    "path": "BedahehNavazi/Playlist/44- Keshesh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "45- Kesh-o-Ghos 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/45- Kesh-o-Ghos.png",
+    "path": "BedahehNavazi/Playlist/45- Kesh-o-Ghos 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "45- Kesh-o-Ghos 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/45- Kesh-o-Ghos.png",
+    "path": "BedahehNavazi/Playlist/45- Kesh-o-Ghos 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "46- Kooshesh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/46- Kooshesh.png",
+    "path": "BedahehNavazi/Playlist/46- Kooshesh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "46- Kooshesh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/46- Kooshesh.png",
+    "path": "BedahehNavazi/Playlist/46- Kooshesh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "47- Golbarg 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/47- Golbarg.png",
+    "path": "BedahehNavazi/Playlist/47- Golbarg 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "47- Golbarg 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/47- Golbarg.png",
+    "path": "BedahehNavazi/Playlist/47- Golbarg 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "48- Geleh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/48- Geleh.png",
+    "path": "BedahehNavazi/Playlist/48- Geleh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "48- Geleh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/48- Geleh.png",
+    "path": "BedahehNavazi/Playlist/48- Geleh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "49- Labkhand 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/49- Labkhand.png",
+    "path": "BedahehNavazi/Playlist/49- Labkhand 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "49- Labkhand 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/49- Labkhand.png",
+    "path": "BedahehNavazi/Playlist/49- Labkhand 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "50- Mobaheseh 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/50- Mobaheseh.png",
+    "path": "BedahehNavazi/Playlist/50- Mobaheseh 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "50- Mobaheseh 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/50- Mobaheseh.png",
+    "path": "BedahehNavazi/Playlist/50- Mobaheseh 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "51- Moshabak 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/51- Moshabak.png",
+    "path": "BedahehNavazi/Playlist/51- Moshabak 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "51- Moshabak 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/51- Moshabak.png",
+    "path": "BedahehNavazi/Playlist/51- Moshabak 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "52- Masaaeb 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/52- Masaaeb.png",
+    "path": "BedahehNavazi/Playlist/52- Masaaeb 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "52- Masaaeb 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/52- Masaaeb.png",
+    "path": "BedahehNavazi/Playlist/52- Masaaeb 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "53- Masaaeb 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/53- Masaaeb.png",
+    "path": "BedahehNavazi/Playlist/53- Masaaeb 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "53- Masaaeb 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/53- Masaaeb.png",
+    "path": "BedahehNavazi/Playlist/53- Masaaeb 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "54- Moj 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/54- Moj.png",
+    "path": "BedahehNavazi/Playlist/54- Moj 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "54- Moj 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/54- Moj.png",
+    "path": "BedahehNavazi/Playlist/54- Moj 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "55- Naaz 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/55- Naaz.png",
+    "path": "BedahehNavazi/Playlist/55- Naaz 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "55- Naaz 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/55- Naaz.png",
+    "path": "BedahehNavazi/Playlist/55- Naaz 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "56- Nasim 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/56- Nasim.png",
+    "path": "BedahehNavazi/Playlist/56- Nasim 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "56- Nasim 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/56- Nasim.png",
+    "path": "BedahehNavazi/Playlist/56- Nasim 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "57- Neshast 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/57- Neshast.png",
+    "path": "BedahehNavazi/Playlist/57- Neshast 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "57- Neshast 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/57- Neshast.png",
+    "path": "BedahehNavazi/Playlist/57- Neshast 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "58- Veda 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/58- Veda.png",
+    "path": "BedahehNavazi/Playlist/58- Veda 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "58- Veda 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/58- Veda.png",
+    "path": "BedahehNavazi/Playlist/58- Veda 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "59- Veda 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/59- Veda.png",
+    "path": "BedahehNavazi/Playlist/59- Veda 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "59- Veda 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/59- Veda.png",
+    "path": "BedahehNavazi/Playlist/59- Veda 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "60- Vafaa 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/60- Vafaa.png",
+    "path": "BedahehNavazi/Playlist/60- Vafaa 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "60- Vafaa 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/60- Vafaa.png",
+    "path": "BedahehNavazi/Playlist/60- Vafaa 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "61- Vafaadaari 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/61- Vafaadaari.png",
+    "path": "BedahehNavazi/Playlist/61- Vafaadaari 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "61- Vafaadaari 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/61- Vafaadaari.png",
+    "path": "BedahehNavazi/Playlist/61- Vafaadaari 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "62- Haft-o-Hasht 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/62- Haft-o-Hasht.png",
+    "path": "BedahehNavazi/Playlist/62- Haft-o-Hasht 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "62- Haft-o-Hasht 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/62- Haft-o-Hasht.png",
+    "path": "BedahehNavazi/Playlist/62- Haft-o-Hasht 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "63- Haft-o-Hasht 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/63- Haft-o-Hasht.png",
+    "path": "BedahehNavazi/Playlist/63- Haft-o-Hasht 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "63- Haft-o-Hasht 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/63- Haft-o-Hasht.png",
+    "path": "BedahehNavazi/Playlist/63- Haft-o-Hasht 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "64- Yaad 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/64- Yaad.png",
+    "path": "BedahehNavazi/Playlist/64- Yaad 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "64- Yaad 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/64- Yaad.png",
+    "path": "BedahehNavazi/Playlist/64- Yaad 2.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "65- Yaadaavari 1",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/65- Yaadaavari.png",
+    "path": "BedahehNavazi/Playlist/65- Yaadaavari 1.mp3",
+    "folder": "Playlist"
+  },
+  {
+    "name": "65- Yaadaavari 2",
+    "artist": "Mohammad Rezaei Nia",
+    "image": "BedahehNavazi/Playlist/65- Yaadaavari.png",
+    "path": "BedahehNavazi/Playlist/65- Yaadaavari 2.mp3",
+    "folder": "Playlist"
+  }
+]
