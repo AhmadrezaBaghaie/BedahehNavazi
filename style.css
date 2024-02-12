@@ -1,5 +1,5 @@
 body {
-    background-color: #deb887;
+    background-color: #ffffff;
   
     font-family: 'Lora', serif;
     /* Smoothly transition the background color */
@@ -25,11 +25,11 @@ body {
   
   .track-art {
     margin: 25px;
-    height: 150px;
-    width: 1000px;
+    height: 372px;
+    width: 1100px;
     background-image: url("https://images.pexels.com/photos/262034/pexels-photo-262034.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-size: cover;
-    border-radius: 15%;
+    border-radius: 2.5%;
     display: flex;
     justify-content: center;
   }
@@ -66,6 +66,11 @@ body {
     
     .track-artist {
       font-size: 1rem;
+    }
+
+    .track-art {
+      height: 152px;
+      width: 450px;
     }
   }
 
