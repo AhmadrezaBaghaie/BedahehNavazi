@@ -1092,3 +1092,13 @@ function seekUpdate() {
   }
 }
 
+document.addEventListener("DOMContentLoaded", function() {
+  var popup = document.getElementById("popup");
+  var closeButton = document.getElementById("close-btn");
+
+  closeButton.addEventListener("click", function() {
+      popup.style.display = "none";
+  });
+
+  popup.style.display = "block";
+});
